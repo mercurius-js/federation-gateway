@@ -48,7 +48,7 @@
     "fastify": "^5.0.0-alpha.4",
     "husky": "^8.0.2",
     "lint-staged": "^13.0.4",
-    "sinon": "^15.0.0",
+    "sinon": "^16.1.0",
     "snazzy": "^9.0.0",
     "standard": "^17.0.0",
     "tap": "^16.3.2",
