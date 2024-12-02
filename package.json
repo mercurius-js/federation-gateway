@@ -41,7 +41,7 @@
     "@fastify/autoload": "^6.0.0",
     "@fastify/cors": "^9.0.0",
     "@sinonjs/fake-timers": "^11.0.0",
-    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.4",
     "@typescript-eslint/parser": "^5.44.0",
     "autocannon": "^7.10.0",
     "concurrently": "^8.0.1",
